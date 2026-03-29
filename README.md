@@ -1,9 +1,9 @@
 # OSS Audit Project: LibreOffice
 
-**Student Name:** A.KANNA RAHUL 
-**Roll Number:** 24MEI10008
+**Student Name:** VADLA SAI HARSHITH
+**Roll Number:** 24MEI10044
 **Course:** Open Source Software  
-**Date of Submission:** March 26, 2026
+**Date of Submission:** March 29, 2026
 
 ---
 
@@ -75,4 +75,4 @@ Run the following command to install all dependencies:
 
 ```bash
 sudo apt update
-sudo apt install -y bash libreoffice coreutils grep gawk# oss-audit-24MEI10008
+sudo apt install -y bash libreoffice coreutils grep gawk# oss-audit-24MEI10044
